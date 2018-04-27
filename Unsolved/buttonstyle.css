@@ -1,0 +1,18 @@
+
+a {
+    font-size: 45px;
+}
+
+a:hover {
+    color: plum;
+}
+
+a:active {
+    font-size: 50px;
+    color: plum;
+    background-color: purple;
+}
+
+a:focus {
+    background-color: cadetblue;
+}
